@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deep Shikha Kumari!
 
-### 🎓 3rd Year B.Tech Student in Electronics & Communication Engineering (ECE)
+### 🎓 4th Year B.Tech Student in Electronics & Communication Engineering (ECE)
 📍 **Bhubaneswar, India** | 🏛️ **CV Raman Global University** (CGPA: 8.74)
 
 I am a passionate engineer operating at the intersection of **hardware and software**. My core interests span across **Embedded Systems, IoT, Hardware Security, and Secure Digital/Cyber-Physical Designs**. I thrive on translating complex hardware architectures into optimized, real-world software applications.
@@ -43,8 +43,3 @@ I am a passionate engineer operating at the intersection of **hardware and softw
 - 🌐 **Portfolio:** [my-portfolio-nine-sigma-51.vercel.app](https://my-portfolio-nine-sigma-51.vercel.app)
 - 📧 **Email:** shikhasingh3680@gmail.com
 
----
-
-### 📊 GitHub Stats
-![Deep Shikha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepshikhakumari23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikhakumari23&layout=compact&theme=radical)
