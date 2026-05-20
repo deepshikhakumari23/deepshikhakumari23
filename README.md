@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deep Shikha Kumari!
 
 ### 🎓 4th Year B.Tech Student in Electronics & Communication Engineering (ECE)
-📍 **Bhubaneswar, India** | 🏛️ **CV Raman Global University** (CGPA: 8.74)
+📍 **Bhubaneswar, India** | 🏛️ **CV Raman Global University** (CGPA: 8.59)
 
 I am a passionate engineer operating at the intersection of **hardware and software**. My core interests span across **Embedded Systems, IoT, Hardware Security, and Secure Digital/Cyber-Physical Designs**. I thrive on translating complex hardware architectures into optimized, real-world software applications.
 
